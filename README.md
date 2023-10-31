@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Projeto: [trabalho de react js](https://react-calculadora-weld.vercel.app/)
+Projeto: [trabalho de react js](https://react-calculadora-steel.vercel.app/)
 
 Calculadora de teclas que realiza cálculos de fórmulas básicas.
 
